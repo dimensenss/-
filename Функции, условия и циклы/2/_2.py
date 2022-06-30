@@ -13,5 +13,5 @@ for i in lst:
     else:
         sum += i
         
-print("suma = ",sum)
+print("sum = ",sum)
 
