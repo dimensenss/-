@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Списки, словари, кортежи, множества", "Списки, словари, кортежи, множества\Списки, словари, кортежи, множества.pyproj", "{569C696A-697A-4B7D-AF00-4093D47B8E13}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "1", "1\1.pyproj", "{965DF100-CFD9-4F49-99D4-BF4D8BCDF129}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "2", "2\2.pyproj", "{48B6FB1D-C45C-4C70-B047-388308975DA9}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "3", "3\3.pyproj", "{4139C2D3-EC5E-42B3-83B6-AB6F7CD6E2C8}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "4", "4\4.pyproj", "{430C12C1-DC5B-452A-8435-7F2F2D1D01DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{569C696A-697A-4B7D-AF00-4093D47B8E13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{569C696A-697A-4B7D-AF00-4093D47B8E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{965DF100-CFD9-4F49-99D4-BF4D8BCDF129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{965DF100-CFD9-4F49-99D4-BF4D8BCDF129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48B6FB1D-C45C-4C70-B047-388308975DA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48B6FB1D-C45C-4C70-B047-388308975DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4139C2D3-EC5E-42B3-83B6-AB6F7CD6E2C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4139C2D3-EC5E-42B3-83B6-AB6F7CD6E2C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{430C12C1-DC5B-452A-8435-7F2F2D1D01DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{430C12C1-DC5B-452A-8435-7F2F2D1D01DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CDB572C-5222-4DA6-A827-76AC7D019F4A}
+	EndGlobalSection
+EndGlobal
