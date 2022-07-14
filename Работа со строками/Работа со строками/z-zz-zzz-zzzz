@@ -1,8 +1,8 @@
 def accum(s):
-    sas = ''
+    res = ''
     for i, item in enumerate(s):
-        sas += (item*(i+1)).capitalize() +'-'
-    sas = sas[:-1]   
-    return sas
+        res += (item*(i+1)).capitalize() +'-'
+    res = res[:-1]   
+    return res
 
 print(accum('ZpglnRxqenU')) 
