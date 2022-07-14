@@ -12,4 +12,4 @@ def num_suma(num):
 
 
 print(num_sum(32345))
-print(num_suma(1234))
+print(num_suma(12346))
