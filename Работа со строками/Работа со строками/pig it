@@ -1,0 +1,14 @@
+def pig_it(text):
+    text = text.split(' ')
+    res = ''
+    for i in text:
+        if i != '!' and i != '?':
+            i = i[1::]+i[0]+'ay '
+            res += i
+        else:    
+            res += i +' '
+    return res[:-1]    
+print(pig_it('Pig latin is cool'))
+print(pig_it('This is my string'))
+print(pig_it('Hello world !'))
+print(pig_it('Quis custodiet ipsos custodes ?'))   

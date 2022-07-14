@@ -1,0 +1,8 @@
+def accum(s):
+    sas = ''
+    for i, item in enumerate(s):
+        sas += (item*(i+1)).capitalize() +'-'
+    sas = sas[:-1]   
+    return sas
+
+print(accum('ZpglnRxqenU')) 

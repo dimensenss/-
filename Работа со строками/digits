@@ -1,0 +1,5 @@
+def hight_low(numbers):
+    numbers = [int(c) for c in numbers.split(' ')]
+    text =str(max(numbers)) +' '+ str(min(numbers))
+    return text
+print(hight_low("1 2 3 4 5"))
